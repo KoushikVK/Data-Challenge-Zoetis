@@ -1,5 +1,4 @@
-# Pytest module for testing linear regression model function
-# Dr. Tirthajyoti Sarkar, Fremont, CA
+
 
 
 from joblib import load, dump
